@@ -1,0 +1,17 @@
+{
+    "startupItems": [
+        {
+            "exe": "C:\Program Files (x86)\MSI Afterburner\MSIAfterburner.exe",
+            "workingDir": "C:\Program Files (x86)\MSI Afterburner",
+            "args": ["/s"],
+            "delay": 5,
+            "runAsAdmin": true
+        },
+        {
+            "exe": "C:\Program Files (x86)\Steam\steam.exe",
+            "workingDir": "C:\Program Files (x86)\Steam",
+            "args": ["-silent"],
+            "delay": 1
+        }
+    ]
+}
